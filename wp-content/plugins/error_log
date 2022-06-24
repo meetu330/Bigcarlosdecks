@@ -1,0 +1,8 @@
+[28-Mar-2021 07:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/justcod1/public_html/bigcarlosdecks.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/justcod1/public_html/bigcarlosdecks.com/wp-content/plugins/hello.php on line 69
+[28-Mar-2021 07:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/justcod1/public_html/bigcarlosdecks.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/justcod1/public_html/bigcarlosdecks.com/wp-content/plugins/hello.php on line 69

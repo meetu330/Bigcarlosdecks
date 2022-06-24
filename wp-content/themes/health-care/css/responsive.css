@@ -1,0 +1,404 @@
+@media screen and (max-width:1200px){
+    .testimonials-slider .item.slick-slide{
+        padding: 30px 15px;
+    }
+    .testimonials-slider {
+        margin: 0 -15px;
+    }
+    .our-services-section .our-service-block {
+        padding: 0 15px;
+    }
+    .contact-right {
+        padding: 30px;
+        background-size: 98% auto;
+    }
+    .contact-right .wpcf7-form {
+        padding: 35px;
+    }
+    .blog-section .row.d-flex {
+        margin: 0 -15px;
+    }
+    .blog-section .blog-block {
+        padding: 0 15px;
+    }
+    .about-block h3 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .about-doctor ul li {
+        padding-left: 70px;
+    }
+    .banner-caption h2 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+    .contact-section {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+    section.testimonials {
+        padding-bottom: 20px;
+    }
+    .blog-section {
+        padding: 30px 0 60px;
+    }
+}
+
+@media screen and (max-width:991px){
+    .logo img {
+        max-width: 180px;
+    }
+    .main-navigation ul.nav-menu li{
+        margin: 0 5px;
+    }
+    .contact-right, .contact-right .wpcf7-form{
+        padding: 20px;
+    }
+    .contact-left h3 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .contact-left ul li {
+        font-size: 16px;
+    }
+    .footer-block {
+        padding-right: 30px;
+    }
+    .footer-links h3 {
+        font-size: 18px;
+    }
+    .footer-block p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .footer-links ul li {
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    .banner-caption {
+        padding-left: 20px;
+    }
+    .about-us-section .one-half + .one-half {
+        padding-left: 34px;
+        padding-right: 34px;
+    }
+    .about-block h3 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .about-block p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .our-services-section {
+        padding: 30px 0px 50px 0;
+    }
+    .img-block img {
+        max-width: 90px;
+    }
+    .our-services-section .our-service-block .outer-block .img-block{
+        min-height: 100px;
+    }
+    .our-services-section .our-service-block .outer-block{
+        padding: 25px 15px;
+    }
+    .our-service-block h3 {
+        font-size: 16px;
+        letter-spacing: 0.6px;
+    }
+    .our-service-block p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .about-doctor {
+        padding-right: 40px;
+    }
+    .about-doctor-section {
+        padding: 50px 0;
+    }
+    .about-doctor h3 {
+        font-size: 30px;
+        margin: 0 0 10px 0;
+    }
+    .about-doctor p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .about-doctor ul li {
+        padding: 10px 0 10px 96px;
+    }
+    .blog-section {
+        padding: 30px 0 50px 0;
+    }
+    .post-content h3 {
+        font-size: 16px;
+    }
+    .post-content p {
+        font-size: 14px;
+    }
+    section.testimonials{
+        padding: 30px 0 30px 0;
+    }
+    .section-title .title {
+        font-size: 28px;
+    }
+    section.testimonials .section-title h2 span {
+        margin-bottom: 5px;
+    }
+    .author-disc p {
+        font-size: 14px;
+    }
+    .contact-section {
+        margin: 40px 0
+    }
+    .home-banner-section .item {
+        height: 410px;
+    }
+    .slick-dots {
+        bottom: 30px;
+    }
+  
+}
+@media screen and (max-width:767px){
+    .middle-header {
+        padding: 8px 0;
+    }
+    .banner-caption h2 {
+        font-size: 32px;
+        margin-bottom: 10px;
+    }
+    .banner-caption p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+     
+    .our-services-section .d-flex{
+        display: block;
+    }
+    .our-services-section .our-service-block {
+        margin-bottom: 30px;
+        max-width: 400px;
+        margin: 0 auto 30px;
+    }
+    .about-doctor-section .d-flex {
+        flex-wrap: wrap;
+    }
+    .about-doctor-section .one-half {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    .about-doctor-section .one-half + .one-half {
+        padding: 0;
+        order: -1;
+    }
+    .doctor-profile {
+        text-align: center;
+    }
+    .blog-section .row.d-flex, .contact-section .container {
+        display: block;
+    }
+    .contact-left, .contact-right {
+        width: 100%;
+    }
+    .blog-section .blog-block {
+    width: 100%;
+    max-width: 400px;
+    padding: 0px 15px;
+        margin: 0 auto 40px;
+}
+    .footer-block{
+        margin: 0 0 40px 0;
+    }
+    .footer-block, .footer-right {
+        max-width: 100%;
+    }
+    .site-info .container.d-flex.justify-content-sb {
+        display: block;
+    }
+    .top-header-left ul li {
+        margin-right: 10px;
+    }
+    .top-header-left ul li i {
+      display: block;
+        margin: 0;
+        text-align: center;
+    }
+.main-navigation > div {
+    position: fixed;
+    background: #fff;
+    left: -100%;
+    width: 100%;
+    top: 0;
+    padding: 30px;
+    transition: all linear 0.2s;
+    max-width: 260px;
+    height: 100vh;
+    box-shadow: 0px 0 20px rgba(0,0,0,0.5);
+}  
+   .main-navigation.toggled > div {
+        left: 0;
+    }
+    .menu-toggle {
+    background: none;
+    border: 0;
+    padding: 0;
+    outline: 0;
+        cursor: pointer;
+        height: 50px;
+        width: 50px;
+}
+    .main-navigation ul.nav-menu li {
+    margin: 0 7px;
+    position: relative;
+    overflow: hidden;
+    font-size: 22px;
+    font-weight: 700;
+}
+    .menu-toggle span {
+        width: 42px;
+        height: 6px;
+        background: #ffd700;
+        display: block;
+        margin: 4px 0;
+        position: relative;
+        transition: all linear 0.2s;
+        border-radius: 10px;
+    }
+    .toggled .menu-toggle span:nth-child(2n) {
+        display: none;
+    }
+    .toggled .menu-toggle span:first-child {
+        transform: rotate(45deg);
+        top: 6px;
+    }
+    .toggled  .menu-toggle span:last-child {
+        transform: rotate(-45deg);
+        top: -4px;
+    }
+    .main-navigation ul.nav-menu li:after {
+        left: 0px;
+        width: 0;
+    }
+    .main-navigation ul.nav-menu li:hover:after {
+        width: 100%;
+        left: 0;
+        transform: translateX(0px);
+    }
+    .logo img {
+        max-width: 116px;
+    }
+    .main-navigation a {
+        padding:  15px 0;
+        color: #000;
+    }
+    .about-us-section .one-half + .one-half {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+    .section-title .title {
+        font-size: 24px;
+        letter-spacing: 0.5px;
+    }
+    .contact-left {
+        padding: 0px 0 16px 0;
+    }
+    .contact-left ul li .fas {
+        font-size: 22px;
+    }
+    .contact-left h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .contact-section {
+        margin: 10px 0 20px 0;
+    }
+    section.testimonials {
+        padding: 30px 0 10px 0;
+    }
+    .blog-section {
+        padding: 30px 0 30px 0;
+    }
+    .elementor-619 .elementor-element.elementor-element-e79c0e7 .elementor-heading-title {
+        font-size: 34px !important;
+        text-align: center
+    }
+    .bottom-footer p {
+        font-size: 13px;
+    }
+    .about-block .elementor-column-wrap.elementor-element-populated {
+        padding: 22px 15px 22px 15px !important;
+    }
+}
+@media screen and (max-width:640px){
+    .top-header .d-flex.justify-content-sb.align-items-center {
+    justify-content: flex-end;
+}
+    .top-header-left{
+        display: none
+    }
+    .about-us-section .one-half {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    .about-us-section .wide-block {
+        display: block;
+    }
+    .about-block {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+    .home-banner-section .item {
+        padding-top: 36px;
+    }
+    .contact-right {
+    padding: 0;
+}
+    .bottom-footer .container {
+    display: block;
+    text-align: center;
+    }.bottom-footer p {
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    .bottom-footer ul li { margin: 0 5px; }
+    .footer-logo {
+        margin: 0 auto;
+        max-width: 180px; 
+    }
+    
+}
+@media screen and (max-width:480px){
+    .site-info {
+        padding: 0px 0 0px 0; 
+    }
+    .footer-block {
+        text-align: center;
+        padding-right: 0;
+    }
+    .footer-right .footer-links {
+        max-width: 100%;
+        flex: 0 0 100%;
+        text-align: center;
+        margin: 0 0 40px 0
+    }
+    .footer-right.justify-content-sb.d-flex{
+        display: block;
+    }
+    
+}
+
+.about{
+    display: block!important;
+    font-size: 16px!important;
+    font-weight: 700!important;
+    /*color: #3dd6ba!important;*/
+    color:red!important;
+    text-transform: uppercase!important;
+    letter-spacing: 1px!important;
+}
+.abouttitle{
+    font-size: 32px !important;
+    color: #091c26 !important;
+    letter-spacing: 1px !important;
+    margin-top: 0!important;
+}
